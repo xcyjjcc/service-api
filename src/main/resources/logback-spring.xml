@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <configuration>
-    <property name="LOG_HOME" value="/var/log/develop/yangtze_v2" />
-    <substitutionProperty name="log.base" value="yangtze_v2" />
+    <property name="LOG_HOME" value="/var/log/yangtz/api" />
+    <substitutionProperty name="log.base" value="api" />
 
     <jmxConfigurator />
 
